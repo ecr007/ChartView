@@ -2,6 +2,8 @@
 
 Swift package for displaying charts effortlessly.
 
+Este es un nuevo cambio
+
 ## V2 Beta is here 🎉🎉🎉
 
 V2 focuses on providing a strong and easy to use base, on which you can build your beautiful custom charts. It provides basic building blocks, like a chart view (bar, pie, line and ring chart), grid view, card view, interactive label for displaying the curent chart value. 
@@ -28,6 +30,7 @@ It supports:
 * Line charts
 * Bar charts
 * Pie charts
+* Map charts
 
 ### Slack
 Join our Slack channel for day to day conversation and more insights:
